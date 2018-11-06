@@ -1,0 +1,26 @@
+git init initialise
+git add ajoute tout fichier + dossier
+git commit -n "Version 2"
+git remote add origine https...
+git push origin master
+
+
+git init
+git remote add origin https...
+git push origin master
+
+creation de branche:
+git branch develop
+OU 
+git check-out -b develop
+
+copie code master vers develop
+git checkout master
+git merge develop
+
+Recuperer un fichier
+crer repertoire pour le projet 
+git init
+git remote add origin "lien https"
+git pull origin master
+
